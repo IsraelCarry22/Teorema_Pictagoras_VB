@@ -1,5 +1,6 @@
 Imports System
 
+
 Class triangulo_rectangulo
     Public Shared Sub Main(ByVal args As String())
         Dim final As Boolean = False
